@@ -155,6 +155,9 @@ body {
   .header-text {
     font-size: 14px;
   }
+  body {
+    background-size: contain;
+  }
 }
 
 .credits {
