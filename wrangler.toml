@@ -1,0 +1,6 @@
+name = "ririka-2nd-anniv"
+main = "src/index.ts" # not used for static site, but Wrangler wants a value
+compatibility_date = "2024-09-06"
+
+[site]
+bucket = "./dist"
