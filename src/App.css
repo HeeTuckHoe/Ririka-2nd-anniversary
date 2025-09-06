@@ -158,6 +158,12 @@ body {
   body {
     background-size: contain;
   }
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+  .header-text {
+    font-size: 14px;
+  }
 }
 
 .credits {
