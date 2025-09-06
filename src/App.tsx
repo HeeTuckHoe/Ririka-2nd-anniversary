@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import { useSwipeable } from "react-swipeable";
 import { cards } from "./data/cards";
+import logo from "./assets/logo.png";
 import "./App.css";
 
 export default function App() {
@@ -105,7 +106,7 @@ export default function App() {
     <div className="app">
       <header style={{ textAlign: "center" }}>
         <img
-          src="src/img/logo.png"
+          src={logo}
           alt="Site Logo"
           style={{
             width: "500px",
