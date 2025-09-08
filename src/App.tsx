@@ -204,10 +204,10 @@ export default function App() {
             TuckHoe, Ookamisan, Pozo, Slash, kellanmcallen, おーりんさん, はとさぶれさん, megami011, BrickBoss, Yoonseha, Cheezebearger, sheep sheep
           </p>
           <p>
-            Misonova, Min, 限界秘書ベルルンさん, 響でむぺさん, ルナリアさん, KiyouraS, Eli, ぺいとちゃん月*ルナ*@一条Corpデザイン部さん, Amby, Dun Gouf’d
+            Misonova, Min, 限界秘書ベルルンさん, 響でむぺさん, ルナリアさん, KiyouraS, Eli, ぺいとちゃん月*ルナ*@一条Corpデザイン部さん, Amby, Dun Gouf’d, shookbykemp
           </p>
           <p>
-            shookbykemp, Nalds, D51, アイニキテさん, Rumi, 설일별(ソル)さん, えるさん, steelballさん, うぃきっどさん, FN LN, Lilyさん, ダルさん, Rattled
+            Nalds, D51, アイニキテさん, Rumi, 설일별(ソル)さん, えるさん, steelballさん, うぃきっどさん, FN LN, Lilyさん, ダルさん, Rattled, 莉愛さん
           </p>
         </div>
       </footer>
