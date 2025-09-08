@@ -3,7 +3,7 @@ export interface Card {
   image: string;
 }
 
-const imageCount = 35; // change this to match your number of images
+const imageCount = 36;
 
 export const cards: Card[] = Array.from({ length: imageCount }, (_, i) => ({
   id: i + 1,
